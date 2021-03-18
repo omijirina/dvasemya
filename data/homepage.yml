@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema hidratante de azuleno con colágeno y elastina para pieles normales"
-  content : "Un excelente humectante para la piel normal es la Crema Hidratante Elastin Collagen Azulene de Christina"
+  title : "Crema nutritiva de recuperación profunda para pieles muy secas"
+  content : "Libera tu piel demasiado seca, problemática e hipersensible de la irritación y el dolor con Nutritic Intense Riche"
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "Al poseer una textura delicada, la crema se extiende fácilmente sobre la superficie de la piel y se absorbe rápidamente. La fórmula de la crema está enriquecida con colágeno y elastina, lo que contribuye a la preservación de la juventud, firmeza y elasticidad de la piel. Las vitaminas A y E en la fórmula tienen un efecto protector, aumentan la inmunidad y promueven la renovación activa de las células epidérmicas."
+  content : "Una crema vivificante de acción reconstructiva intensiva, desarrollada en el laboratorio del Centro de Ciencias de La Roche-Posay."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Aplique una fina capa de Christina Moisturizer sobre la piel pretratada con suero hasta su total absorción."
+  content : "aplicar sobre el rostro limpio por la mañana y / o por la noche."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -85,25 +85,19 @@ testimonial:
   enable : true
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
-    # testimonial item loop
-    - name : "Angela Perara"
-      image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Muy ligero, ingrávido. Lo usaré en verano, para el invierno hay muy poca humedad. Se absorbe rápidamente, no deja una película 5a en el rostro."
-      rating : "five" # rating star, one to five
-      
+  
     # testimonial item loop
     - name : "Riya Ventilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "La crema realmente huele un poco a "cosméticos de la abuela", como alguien dijo antes. Pero me uno a las críticas positivas. Después de su uso, la condición de la piel ha mejorado mucho. La piel se vuelve más nutrida, más elástica. ¡Recomiendo comprar!"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "john Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "Crema favorita, no es la primera vez que la tomo. En invierno, solo él es adecuado para mi piel seca. Nutre, hidrata, no provoca irritación. Después de otras cremas, media hora después de la aplicación, la piel comenzó a desprenderse nuevamente, ¡todo está bien con esta crema!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
